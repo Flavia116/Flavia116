@@ -16,7 +16,6 @@ Busco aplicar minha expertise em análise, organização e gestão de dados para
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-
 ##
 
 <div> 
@@ -25,6 +24,9 @@ Busco aplicar minha expertise em análise, organização e gestão de dados para
   </a> 
   <a href="mailto:lflavia.araujo@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://wa.me/5511991461011" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
 
