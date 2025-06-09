@@ -1,22 +1,19 @@
--  Olá, Eu sou a Flavia Araujo 
+### ✨ Sobre mim
 
-Tenho 35 anos, sou gestora com mais de 35 anos de experiência no setor financeiro e atualmente estou em transição de carreira para Ciência de Dados.
+Olá! Sou a Flávia, profissional em transição da área financeira para a Ciência de Dados. Tenho me dedicado aos estudos de **Python** e **banco de dados MySQL**, com foco no desenvolvimento de habilidades práticas. Busco aprender de forma constante, equilibrando os estudos com atividades físicas, meditação e autoconhecimento. Acredito na força da reinvenção e estou construindo um novo caminho com dedicação e propósito.
 
-Busco aplicar minha expertise em análise, organização e gestão de dados para resolver problemas reais, automatizar processos e gerar valor estratégico.
+---
 
-🎯 Objetivo: Unir minha experiência financeira com habilidades técnicas para entregar soluções práticas e escaláveis em dados e desenvolvimento.
-
-📍 Localização: São Paulo - SP
-
-🔗 Contato: WhatsApp
-
+### 🛠️ Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-##
+---
+
+### 📫 Contato
 
 <div> 
   <a href="https://www.linkedin.com/in/lflaviaaraujo" target="_blank">
