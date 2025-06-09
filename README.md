@@ -27,7 +27,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
   </a>
 </div>
 
-![snake gif](https://github.com/Flavia116/Flavia116/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Flavia116/Flavia116/blob/output/github-contribution-grid-snake.svg)
   
 <!---
 Flavia116/Flavia116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
