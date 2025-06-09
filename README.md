@@ -1,8 +1,14 @@
 - 👋 Olá, Eu sou a Flavia Araujo 2
-- 
-- 👀 Hoje trabalho como Analista de dados
-- 🌱 Estudando ciência de Dados 
-- 📫 Contata-me no e-mail: lflavia.araujo@gmail.com
+
+Tenho 35 anos, sou gestora com mais de 35 anos de experiência no setor financeiro e atualmente estou em transição de carreira para Ciência de Dados.
+
+Busco aplicar minha expertise em análise, organização e gestão de dados para resolver problemas reais, automatizar processos e gerar valor estratégico.
+
+🎯 Objetivo: Unir minha experiência financeira com habilidades técnicas para entregar soluções práticas e escaláveis em dados e desenvolvimento.
+
+📍 Localização: São Paulo - SP
+
+🔗 Contato: LinkedIn | WhatsApp
 
 
 <div style="display: inline_block"><br>
