@@ -8,7 +8,7 @@ Busco aplicar minha expertise em análise, organização e gestão de dados para
 
 📍 Localização: São Paulo - SP
 
-🔗 Contato: LinkedIn | WhatsApp
+🔗 Contato: WhatsApp
 
 
 <div style="display: inline_block"><br>
