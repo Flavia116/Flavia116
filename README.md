@@ -4,11 +4,13 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 
 ---
 
-🎓 Certificados Selecionados
-Introdução à Análise de Dados com SQL
-Lógica de Pensamento Computacional
-Fundamentos de Business Intelligence (BI)
-📂 Veja todos os meus certificados completos na página oficial da DIO
+## 🎓 Certificados Selecionados
+
+- [Introdução à Análise de Dados com SQL](https://hermes.dio.me/certificates/FOLUJGWR.pdf)
+- [Lógica de Pensamento Computacional](https://hermes.dio.me/certificates/1TFH7WSW.pdf)
+- [Fundamentos de Business Intelligence (BI)](https://hermes.dio.me/certificates/623KDUOS.pdf)
+
+📂 Veja todos os meus certificados completos na [página oficial da DIO](https://web.dio.me/certificates)
 
 ---
 
