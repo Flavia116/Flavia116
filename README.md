@@ -1,4 +1,4 @@
-### ✨ Sobre mim
+### 
 
 Olá! Sou a Flávia, profissional em transição da área financeira para a Ciência de Dados. Tenho me dedicado aos estudos de **Python** e **banco de dados MySQL**, com foco no desenvolvimento de habilidades práticas. Busco aprender de forma constante, equilibrando os estudos com atividades físicas, meditação e autoconhecimento. Acredito na força da reinvenção e estou construindo um novo caminho com dedicação e propósito.
 
