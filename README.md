@@ -22,10 +22,6 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
     
 </div>
 
-<a href="https://github.com/Flavia116" target="_blank">
-  <img align="center" alt="github" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background-color: white; padding: 5px; border-radius: 5px;">
-</a>
-
 ---
 
 ### 📫 Contato
