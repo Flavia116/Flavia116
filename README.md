@@ -37,6 +37,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
     <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Flavia116/)
 
 ---
