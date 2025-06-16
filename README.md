@@ -38,7 +38,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
   </a>
 </div>
 
-[![Profile views](https://komarev.com/ghpvc/?username=seu-usuario&label=LinkedIn%20Views&color=0e76a8&style=flat)](https://www.linkedin.com/in/lflaviaaraujo/)
+[![Profile views](https://komarev.com/ghpvc/?username=seu-usuario&label=LinkedIn%20Views&color=0e76a8&style=flat)](https://www.linkedin.com/in/Flavia116/)
 ---
 <div>
   
