@@ -13,19 +13,15 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 
 ---
 
-### 🛠️ Tecnologias
+##  Tecnologias & Estatísticas GitHub
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<div align="center">
 
-   <div align="center">
+<!-- Linguagens mais usadas -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia116&layout=compact&theme=radical" alt="Top Languages">
 
-  <!-- Linguagens mais usadas -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia116&layout=compact&theme=radical)
-  <!-- Estatísticas gerais -->
-  ![Flavia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavia116&show_icons=true&theme=radical)
+<!-- Estatísticas gerais -->
+<img src="https://github-readme-stats.vercel.app/api?username=Flavia116&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
 
 </div>
 
