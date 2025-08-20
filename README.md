@@ -24,6 +24,13 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 
 ---
 
+ <div align="center">
+
+  <img src="https://img.shields.io/github/languages/top/Flavia116/python" alt="Top language">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia116&layout=compact" alt="Top langs">
+
+</div>
+
 ### 📫 Contato
 
 <div> 
