@@ -23,7 +23,9 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 <div align="center">
 
 <!-- Linguagens mais usadas -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia116&layout=compact&theme=radical" alt="Top Languages">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia116&layout=compact&theme=transparent)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavia116&show_icons=true&theme=transparent)
+
 
 </div>
 
