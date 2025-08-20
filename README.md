@@ -20,7 +20,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
   <img align="left" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="left" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
-<div align="center">
+<div align="left">
 
 <!-- Linguagens mais usadas -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia116&layout=compact&theme=transparent)
