@@ -9,6 +9,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 - [Lógica de Pensamento Computacional](https://hermes.dio.me/certificates/1TFH7WSW.pdf)
 - [Fundamentos de Business Intelligence (BI)](https://hermes.dio.me/certificates/623KDUOS.pdf)
 - [Fundamentos de Linguagem Python do Básico a Aplicações de IA](https://drive.google.com/file/d/1ycaGBGnBZusWDHls6qXYP-Hd9mchpQXi/view?usp=sharing)
+- [Fundamentos de Linguagem Python Para Análise de Dados, Data Science e Machine Learning](https://drive.google.com/file/d/1apb6SXPQ07SeqM7bkayAfWAeDI2jAsCq/view?usp=sharing)
   
 
 📂 Veja todos os meus certificados completos na [página oficial da DIO](https://web.dio.me/certificates)
