@@ -21,9 +21,9 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 ##  Tecnologias 
 
 <div style="display: inline_block"><br>
-  <img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Python" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="left" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="left" alt="github" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   
 <div align="left">
 
