@@ -29,7 +29,6 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 
 ---
 
-
 ## 📫 Contato
 
 <div> 
