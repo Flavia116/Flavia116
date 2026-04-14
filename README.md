@@ -24,12 +24,6 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
   <img align="left" alt="Python" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
-
----
-
-<!-- Linguagens mais usadas -->
-  
-  
 </div>
 
 ---
