@@ -28,9 +28,10 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 </div>
 
 
+---
 
 
-### 📫 Contato
+## 📫 Contato
 
 <div> 
   <a href="https://www.linkedin.com/in/lflaviaaraujo" target="_blank">
