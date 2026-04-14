@@ -16,6 +16,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 
 📂 Veja todos os meus certificados completos na [página oficial da DIO](https://web.dio.me/certificates)
 
+
 ---
 
 ##  Tecnologias 
@@ -26,7 +27,8 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
   
 </div>
 
----
+
+
 
 ### 📫 Contato
 
