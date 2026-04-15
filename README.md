@@ -19,7 +19,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 
 ---
 
- ⌨️ Tecnologias 
+ ⌨️ TECNOLOGIAS
 
 <div style="display: inline_block"><br>
   <img align="left" alt="Python" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -29,7 +29,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 
 ---
 
- 📫  Contato
+ 📫  CONTATO
 
 <div> 
   <a href="https://www.linkedin.com/in/lflaviaaraujo" target="_blank">
