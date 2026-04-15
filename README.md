@@ -3,7 +3,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 
 ---
 
-##  Certificados 
+  Certificados 
 
 - [Introdução à Análise de Dados com SQL](https://hermes.dio.me/certificates/FOLUJGWR.pdf)
 - [Lógica de Pensamento Computacional](https://hermes.dio.me/certificates/1TFH7WSW.pdf)
