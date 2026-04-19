@@ -12,7 +12,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 - [Fundamentos de Linguagem Python Para Análise de Dados, Data Science e Machine Learning](https://drive.google.com/file/d/1apb6SXPQ07SeqM7bkayAfWAeDI2jAsCq/view?usp=sharing)
 - [Fundamentos de Linguagem Python para Análise de Dados e Data Science - Nível Básico](https://drive.google.com/file/d/18pXj791XqMtWS1aZO1Z4chHsxdRDSADb/view?usp=sharing)
 - [Fundamentos de Linguagem Python para Análise de Dados e Data Science - Nível Introdutório](https://drive.google.com/file/d/1d2yrnXNs_TDGwaGCq0H9xdmP9pPewYnd/view?usp=sharing)
-- [Dio-campus-expert - (https://drive.google.com/drive/folders/1E0k0JtfJCquTLzlm23G_OrRUaj4A_JiK?usp=drive_link)
+- [Dio-campus-expert](https://drive.google.com/drive/folders/1E0k0JtfJCquTLzlm23G_OrRUaj4A_JiK?usp=drive_link)
   
   
 📂 Veja todos os meus certificados completos na [página oficial da DIO](https://web.dio.me/certificates)
