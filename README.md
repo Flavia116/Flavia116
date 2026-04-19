@@ -15,6 +15,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 - [Dio-campus-expert](https://drive.google.com/drive/folders/1E0k0JtfJCquTLzlm23G_OrRUaj4A_JiK?usp=drive_link)
   
   
+  
 📂 Veja todos os meus certificados completos na [página oficial da DIO](https://web.dio.me/certificates)
 
 
