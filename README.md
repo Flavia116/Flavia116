@@ -3,13 +3,6 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 
 ---
 
-<p align="center">
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flavia116&theme=radical&hide_border=true"/>
-</p>
-
 ---
 
  📜 CERTIFICADOS  
@@ -27,6 +20,15 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
   
 📂 Veja todos os meus certificados completos na [página oficial da DIO](https://web.dio.me/certificates)
 
+
+---
+
+<p align="center">
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flavia116&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
