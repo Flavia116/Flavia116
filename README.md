@@ -25,10 +25,6 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 
  ⌨️ TECNOLOGIAS
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flavia116&theme=radical&hide_border=true"/>
-</p>
-
   <div style="display: inline_block"><br>
   <img align="left" alt="Python" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
@@ -59,6 +55,10 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 ---
 
 <div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flavia116&theme=radical&hide_border=true"/>
+</p>
   
 ![snake gif](https://github.com/Flavia116/Flavia116/blob/output/github-contribution-grid-snake.svg)
   </div>
