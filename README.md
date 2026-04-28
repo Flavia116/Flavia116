@@ -37,6 +37,8 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 
 ---
 
+<div>
+
  ⌨️ TECNOLOGIAS
 
   <div style="display: inline_block"><br>
@@ -47,10 +49,6 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 <p align="center">
  
 </br></div>
-
----
-
-<div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flavia116&theme=radical&hide_border=true"/>
