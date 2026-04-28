@@ -5,7 +5,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
 
  📫  CONTATO
 
-<div><br>
+<div><br></br>
  
   <a href="https://www.linkedin.com/in/lflaviaaraujo" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -16,7 +16,7 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
   <a href="https://wa.me/551199146109" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-</div></br>
+</div>
 
 [![Profile views](https://komarev.com/ghpvc/?username=Flavia116&label=LinkedIn%20Views&color=0e76a8&style=flat)](https://www.linkedin.com/in/Flavia116/)
 
