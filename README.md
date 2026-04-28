@@ -50,6 +50,8 @@ Olá! Sou a Flávia, profissional em transição da área financeira para a Ciê
  
 </br></div>
 
+---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flavia116&theme=radical&hide_border=true"/>
 </p>
